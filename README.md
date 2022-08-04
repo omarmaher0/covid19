@@ -1,2 +1,2 @@
 # covid19
-covid19 to know how many deaths and cases in all the world
+It's a dataset to know how many deaths and cases in all the world
